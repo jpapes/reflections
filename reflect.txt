@@ -1,2 +1,5 @@
 Git
 FC diff for two files
+
+git diff #displaces diffeerencts between respository and working directroy
+git --staged #displays differences between staged and respository
